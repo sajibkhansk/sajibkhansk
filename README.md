@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajib Khan</h1>
 <h3 align="center">I am expert in Software Engineer || Data Scientist || React Developer || MERN Expert || Java Script Developer || Android Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajibkhansk&label=Profile%20views&color=0c6dd4&style=flat" alt="sajibkhansk" /> </p>
-
-
 - 🔭 I’m currently working on [As a Student of SCIC (Programming Hero)](https://web.programming-hero.com/)
 
 - 🌱 I’m currently learning **Web Development, Data Science, Machine Learning, Artificial Intelligence, Image Processing,**
@@ -15,7 +12,7 @@
 - 📫 How to reach me **ssajibkhanofficial@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UEddP0Zq4wbjvf0AIVCnAqAqM0pmlroI/view](https://drive.google.com/file/d/1UEddP0Zq4wbjvf0AIVCnAqAqM0pmlroI/view)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajibkhansk&label=Profile%20views&color=0c6dd4&style=flat" alt="sajibkhansk" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sajibkhanofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajibkhanofficial" height="30" width="40" /></a>
