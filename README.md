@@ -1,9 +1,10 @@
 ![I am GitHub Readme Generator's creator](https://i.ibb.co/mHbnJZq/Blue-Modern-Virtual-Technology-Banner.jpg)
 <h3 align="center">I am expert in Software Engineering | Data Science | React Development | MERN | Java Script Development</h3>
 <br>
+ 
 - 🔭 I’m currently working on [As a Student of SCIC (Programming Hero)](https://web.programming-hero.com/)
 
-- 🌱 I’m currently learning **Web Development, Data Science, Machine Learning, Artificial Intelligence, Image Processing,**
+- 🌱 I’m currently learning **Web Development, Data Science, Machine Learning, Artificial Intelligence & Image Processing,**
 
 - 👯 I’m looking to collaborate on **Remote Job with any Multinational Company.**
 
