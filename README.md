@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co/mHbnJZq/Blue-Modern-Virtual-Technology-Banner.jpg)
+![I am GitHub Readme Generator's creator](https://i.ibb.co/dkQKV1Z/Blue-Modern-Virtual-Technology-Banner.jpg)
 <h3 align="center">I am expert in Software Engineering | Data Science | React Development | MERN | Java Script Development</h3>
 <br>
  
