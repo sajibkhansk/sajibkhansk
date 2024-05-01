@@ -1,5 +1,5 @@
 ![I am GitHub Readme Generator's creator](https://i.ibb.co/dkQKV1Z/Blue-Modern-Virtual-Technology-Banner.jpg)
-<h3 align="center">I am expert in Software Engineering | Data Science | React Development | MERN | Java Script Development</h3>
+<h3 align="center">I am a Data Analyst</h3>
 <br>
  
 - 🔭 I’m currently working on [As a Student of SCIC (Programming Hero)](https://web.programming-hero.com/)
