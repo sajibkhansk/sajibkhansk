@@ -2,7 +2,7 @@
 <h3 align="center">I am a Data Analyst</h3>
 <br>
  
-- 🔭 I’m currently working on [As a Student of SCIC (Programming Hero)](https://web.programming-hero.com/)
+- 🔭 I’m currently Studying Computer Science & Engineering(CSE) at East West University
 
 - 🌱 I’m currently learning **Web Development, Data Science, Machine Learning, Artificial Intelligence & Image Processing,**
 
