@@ -15,7 +15,7 @@
 
 - 📫  [Portfolio](https://sajibkhansk.netlify.app)
 
-- 📄 [Resume] (https://drive.google.com/file/d/1UEddP0Zq4wbjvf0AIVCnAqAqM0pmlroI/view)
+- 📄 [Resume](https://sajibkhansk.netlify.app)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajibkhansk&label=Profile%20views&color=0c6dd4&style=flat" alt="sajibkhansk" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
