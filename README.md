@@ -2,15 +2,16 @@
 <h3 align="center">I am a Data Analyst</h3>
 <br>
  
-- 🔭 I’m currently Studying Computer Science & Engineering(CSE) at East West University
+- 🔭 I’m currently Studying Computer Science & Engineering(CSE) at **East West University**
 
-- 🌱 I’m currently learning **Web Development, Data Science, Machine Learning, Artificial Intelligence & Image Processing,**
+- 🌱 I’m currently learning **Data Analysis, Data Science, Machine Learning, Artificial Intelligence & Image Processing,**
 
 - 👯 I’m looking to collaborate on **Remote Job with any Multinational Company.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sajibkhansk?tab=repositories](https://github.com/sajibkhansk?tab=repositories)
+- 👨‍💻 All of my **Data Analysis** projects are available at [https://github.com/sajibkhansk?tab=repositories](https://
+- github.com/sajibkhansk?tab=repositories)
 
-- 📫 How to reach me **ssajibkhanofficial@gmail.com**
+- 📫 How to reach me **sajibkhansk17@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UEddP0Zq4wbjvf0AIVCnAqAqM0pmlroI/view](https://drive.google.com/file/d/1UEddP0Zq4wbjvf0AIVCnAqAqM0pmlroI/view)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajibkhansk&label=Profile%20views&color=0c6dd4&style=flat" alt="sajibkhansk" /> </p>
