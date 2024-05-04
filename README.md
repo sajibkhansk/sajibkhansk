@@ -1,5 +1,5 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co/dkQKV1Z/Blue-Modern-Virtual-Technology-Banner.jpg)
-<h3 align="center">I am a Data Analyst</h3>
+
+<h3 align="center">Hello, I am Sajib Khan. A Data Science Enthusiast</h3>
 <br>
  
 - 🔭 I’m currently Studying Computer Science & Engineering(CSE) at **East West University**
